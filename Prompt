@@ -1,0 +1,115 @@
+Dưới đây là prompt chi tiết hoàn chỉnh với đầy đủ các yêu cầu chặt chẽ để đảm bảo AI có thể tạo ra nội dung chất lượng cao, dễ hiểu, có hệ thống và phù hợp với người học:
+
+
+---
+
+📌 Prompt chi tiết yêu cầu viết về TypeScript:
+
+Hãy viết một bài hướng dẫn chi tiết về TypeScript với các yêu cầu sau:
+
+Nội dung cần có:
+
+1. Giới thiệu TypeScript:
+
+TypeScript là gì?
+
+Lợi ích và lý do nên sử dụng TypeScript thay vì JavaScript.
+
+Ứng dụng thực tế của TypeScript.
+
+
+
+2. TypeScript Compiler:
+
+TypeScript Compiler là gì?
+
+Cách cài đặt TypeScript.
+
+Cách sử dụng tsc để biên dịch TypeScript sang JavaScript.
+
+Ví dụ minh họa cách biên dịch và theo dõi file.
+
+
+
+3. TypeScript Basic & Basic Types:
+
+Các kiểu dữ liệu cơ bản: number, string, boolean, array, tuple, enum, any, void, null, undefined.
+
+Cách khai báo biến, hằng, hàm.
+
+Ví dụ minh họa cho từng kiểu dữ liệu.
+
+
+
+4. Advanced Type:
+
+Union, Intersection, Type Alias, Literal Types, Type Guards, Discriminated Unions.
+
+Ví dụ ứng dụng cho từng kiểu dữ liệu nâng cao.
+
+Giải thích ngắn gọn khi nào nên dùng từng loại.
+
+
+
+5. Class & Interfaces:
+
+Cách khai báo class, constructor, thuộc tính, phương thức.
+
+Kế thừa (extends), implements interface.
+
+Abstract class và interface kết hợp.
+
+Ví dụ về OOP trong TypeScript.
+
+
+
+6. Generic:
+
+Khái niệm Generic là gì?
+
+Cách khai báo Generic Function, Generic Class, Generic Interface.
+
+Ví dụ thực tế về lợi ích của Generic trong việc viết mã tái sử dụng.
+
+
+
+
+
+---
+
+Yêu cầu chi tiết về trình bày:
+
+Viết theo phong cách dễ hiểu cho người mới bắt đầu.
+
+Trình bày có cấu trúc rõ ràng, từng phần có tiêu đề và đánh số mục.
+
+Cung cấp ví dụ code đầy đủ, có giải thích chi tiết cho mỗi phần.
+
+Mỗi ví dụ nên có cả đoạn giải thích mục đích và cách hoạt động.
+
+Kết bài ngắn gọn, nêu tóm tắt tầm quan trọng của TypeScript trong lập trình hiện đại.
+
+Ngôn ngữ chính xác, tránh sai sót kỹ thuật.
+
+
+
+---
+
+Yêu cầu bổ sung:
+
+Tổng độ dài bài viết: ít nhất 1500 từ.
+
+Phù hợp cho đối tượng người mới học TypeScript.
+
+Nếu có thể, thêm so sánh ngắn giữa JavaScript và TypeScript trong phần giới thiệu.
+
+Không lặp lại nội dung.
+
+Ưu tiên giải thích qua ví dụ thực tế.
+
+
+
+---
+
+👉 Nếu bạn muốn, mình có thể viết ngay bài mẫu theo prompt này. Bạn có muốn mình thực hiện không? 😊
+
